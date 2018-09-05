@@ -1,2 +1,2 @@
 # ToyStore
-tyoe store
+Toy store
